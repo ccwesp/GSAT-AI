@@ -7,7 +7,7 @@
 ## 常見問題 FAQ
 
 ### App 需要網路嗎？
-不需要。內建 7,840 字字典、單字庫、間隔複習、本機測驗、文法庫與經典名句全部離線可用。只有 AI 生成功能（出題、翻譯、作文批改等）在使用雲端模型時需要網路；使用 Apple Intelligence 本機模型則完全離線。
+不需要。內建超過 7,000 字與 200 片語的字典、單字庫、間隔複習、本機測驗、文法庫與經典名句全部離線可用。只有 AI 生成功能（出題、翻譯、作文批改等）在使用雲端模型時需要網路；使用 Apple Intelligence 本機模型則完全離線。
 
 ### 免費版有什麼功能？
 免費版包含完整的離線字典、單字庫管理、間隔重複複習、本機單字測驗（中譯英/聽力拼字/英譯中）、內建文法庫、經典名句。AI 智慧功能（出題、閱讀文章、作文批改、翻譯、問 AI）需要購買完整版。
@@ -43,8 +43,8 @@ AI 模型偶爾會回傳不完整的回應，App 會自動重試一次。如果�
 
 如果遇到問題或有建議，歡迎聯繫：
 
-- **Email**：mattcheng.dev@gmail.com
-- **GitHub Issues**：https://github.com/ccwesp/GSAT-Ace/issues
+- **Email**：ccw.matt@gmail.com
+- **GitHub Issues**：https://github.com/ccwesp/AIGenie/issues
 
 我們會盡快回覆您的問題。
 
@@ -52,6 +52,6 @@ AI 模型偶爾會回傳不完整的回應，App 會自動重試一次。如果�
 
 ## 版本資訊
 
-- 目前版本：1.2.0
-- 內建字典：7,840 字
+- 目前版本：1.0.0
+- 內建字典：7,000+ 字
 - 支援 AI 供應商：Apple Intelligence、Anthropic Claude、OpenAI、Google Gemini、xAI Grok、DeepSeek、Qwen、OpenCode Zen
