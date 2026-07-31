@@ -63,7 +63,7 @@
 
 如有任何隱私權相關問題，請聯繫：
 
-- Email：mattcheng.dev@gmail.com
+- Email：ccw.matt@gmail.com
 - GitHub：https://github.com/ccwesp
 
 ---
@@ -95,4 +95,4 @@ AI Genie does not include any advertising, analytics, or tracking SDKs.
 
 ## Contact
 
-For privacy-related inquiries: mattcheng.dev@gmail.com
+For privacy-related inquiries: ccw.matt@gmail.com
