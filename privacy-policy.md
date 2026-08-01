@@ -2,7 +2,7 @@
 
 **最後更新日期：2026 年 8 月 1 日**
 
-英靈通（AI Genie）尊重並保護您的隱私。本政策說明我們如何處理您的個人資訊。
+GSAT-AI（學測英文）尊重並保護您的隱私。本政策說明我們如何處理您的個人資訊。
 
 ---
 
@@ -10,7 +10,7 @@
 
 **我們不收集任何個人資料。**
 
-英靈通不會：
+GSAT-AI不會：
 - 收集您的姓名、電子郵件或聯絡資訊
 - 追蹤您的位置
 - 記錄您的使用行為
@@ -20,7 +20,7 @@
 
 ## AI 功能與第三方服務
 
-英靈通提供兩種 AI 模式：
+GSAT-AI提供兩種 AI 模式：
 
 ### 1. Apple Intelligence（裝置端模型）
 - 所有處理在您的裝置上完成
@@ -43,13 +43,13 @@
 
 ## 第三方 SDK
 
-英靈通不包含任何第三方廣告、分析或追蹤 SDK。
+GSAT-AI不包含任何第三方廣告、分析或追蹤 SDK。
 
 ---
 
 ## 兒童隱私
 
-英靈通適合所有年齡層使用（分級 4+），且不收集任何使用者資料，完全符合兒童隱私保護要求。
+GSAT-AI適合所有年齡層使用（分級 4+），且不收集任何使用者資料，完全符合兒童隱私保護要求。
 
 ---
 
@@ -72,13 +72,13 @@
 
 **Last Updated: August 1, 2026**
 
-AI Genie (英靈通) respects and protects your privacy.
+GSAT-AI (GSAT-AI) respects and protects your privacy.
 
 ## Data Collection
 
 **We do not collect any personal data.**
 
-AI Genie does not collect your name, email, location, or usage behavior. No data is sent to the developer's servers.
+GSAT-AI does not collect your name, email, location, or usage behavior. No data is sent to the developer's servers.
 
 ## AI Features
 
@@ -91,7 +91,7 @@ All learning data is stored locally on your device. Optional iCloud backup store
 
 ## Third-Party SDKs
 
-AI Genie does not include any advertising, analytics, or tracking SDKs.
+GSAT-AI does not include any advertising, analytics, or tracking SDKs.
 
 ## Contact
 

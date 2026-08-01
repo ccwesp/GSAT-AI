@@ -1,6 +1,6 @@
 # 支援資訊 / Support
 
-## 英靈通 (AI Genie) - 學測英文學習 App
+## GSAT-AI (GSAT-AI) - 學測英文學習 App
 
 ---
 
